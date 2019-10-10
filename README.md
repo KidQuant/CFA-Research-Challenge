@@ -27,3 +27,11 @@ Historical time-series asset prices such as CTSH's stock or currency exchange ra
 ## Enviroment and Tools
 
 Financial models were built and implimented using excel. We also constructed graphs, charts, and tables using excel. All of the necessary items were linked to Microsoft Word and Powerpoint for the construction of the [report](https://github.com/KidQuant/CFA-Research-Challenge/blob/master/Team%20Q%20-%20CTSH.pdf) and the [presentation](https://github.com/KidQuant/CFA-Research-Challenge/blob/master/CFA%20Research%20Presentation%20-%20CTSH.pdf).
+
+## Research Results
+
+- CTSH's digital business will grow at a rate between 20 - 25% in the next five years.
+- CTSH will improve its profitability by expanding its addressable market
+- CTSH will increase the return of cash generated to shareholders
+
+We valued CTSH using the Perpetuity Method, Exit EBITDA Multiple Method and using Relative Valuation; our valuations using each of these methods were $88.99, $107.92, and $81.59 respectively. Using the weighted average of these valuations, our **target price is $90.60.**
