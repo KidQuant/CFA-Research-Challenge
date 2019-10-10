@@ -15,3 +15,9 @@ We analyzed Cognizant for the CFA Research Challenge competition for 2019.
 **Part 4:** We analyze the different investment risk that would prevent CTSH share price from reaching the target price.
 
 **Part 5:** We provide our investment recommendation.
+
+## Data
+
+Considering the nature of this competition, we were only able to use information from public sources; however, each CFA research team was provided with free access to [S&P Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform), which the vast majority of our information originated.
+
+We also utilized industry analysis from the [International Data Corporation](https://www.idc.com) (IDC). We used economic data from the [Bureau of Economic Analysis](http://bea.gov) and the [Bureau of Labor Statistics](http://bls.gov).
