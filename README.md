@@ -21,3 +21,9 @@ We analyzed Cognizant for the CFA Research Challenge competition for 2019.
 Considering the nature of this competition, we were only able to use information from public sources; however, each CFA research team was provided with free access to [S&P Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform), which the vast majority of our information originated.
 
 We also utilized industry analysis from the [International Data Corporation](https://www.idc.com) (IDC). We used economic data from the [Bureau of Economic Analysis](http://bea.gov) and the [Bureau of Labor Statistics](http://bls.gov).
+
+Historical time-series asset prices such as CTSH's stock or currency exchange rates were provided with Bloomberg.
+
+## Enviroment and Tools
+
+Financial models were built and implimented using excel. We also constructed graphs, charts, and tables using excel. All of the necessary items were linked to Microsoft Word and Powerpoint for the construction of the [report](https://github.com/KidQuant/CFA-Research-Challenge/blob/master/Team%20Q%20-%20CTSH.pdf) and the [presentation](https://github.com/KidQuant/CFA-Research-Challenge/blob/master/CFA%20Research%20Presentation%20-%20CTSH.pdf).
